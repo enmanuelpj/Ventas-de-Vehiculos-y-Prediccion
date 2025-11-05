@@ -1,4 +1,4 @@
-# Ventas-de-Vehiculos-y-Prediccion
+# Ventas de Vehiculos y Prediccion
 Este dashboard otorga información de las ventas de vehículos de una empresa anónima a lo largo de los años.
 
 ![alt text](image.png)
@@ -13,5 +13,10 @@ python y cargado en el PBI.
 
 ![alt text](image-1.png)
 
-Para ver mas detalles sobre el proyecto, puede descargar el archivo PBI o visitar las demas carpetas del proyecto, donde se detallan
-otros aspectos tecnicos de cara a la data.
+Para ver mas detalles sobre el proyecto, puede descargar el archivo PBI o visitar las demas carpetas del proyecto, donde se detallan otros aspectos tecnicos de cara a la data.
+
+# Web Sraping
+
+Por otra parte, se montó una estructura de Web Scrpaing en Pythn para ser aprovechada posteriormente, donde se toma la tasa de cambio a la fecha.
+
+![alt text](image.png)
