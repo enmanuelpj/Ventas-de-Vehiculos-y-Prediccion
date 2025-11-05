@@ -1,7 +1,7 @@
 # Ventas de Vehiculos y Prediccion
 Este dashboard otorga información de las ventas de vehículos de una empresa anónima a lo largo de los años.
 
-![alt text](Resumen-Ventas.png)
+![alt text](Ventas.png)
 
 En el dashboard podemos observar otras heramientas como tooltips utilizados para detalle puntuales de la visual
 
